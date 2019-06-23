@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pickers</string>
+
+    <string-array name="activities">
+        <item>SELECT AN ACTIVITY</item>
+        <item>Study Chinese</item>
+        <item>Practise Tai Chi</item>
+        <item>Develop a new skill</item>
+    </string-array>
+</resources>
